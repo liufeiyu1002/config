@@ -1,0 +1,12 @@
+[
+   {
+      "name":"liu-webpack-pc",
+      "url":"github:liufeiyu1002/liu-webpack-pc",
+      "description":"基于webpack构建的vue项目模板"
+    },
+    {
+      "name":"liu-webpack-mobile",
+      "url":"github:ruichengping/liu-webpack-mobile",
+      "description":"基于webpack构建的vue项目模板"
+    }
+]
