@@ -2,11 +2,11 @@
    {
       "name":"liu-webpack-pc",
       "url":"github:liufeiyu1002/liu-webpack-pc",
-      "description":"基于webpack构建的vue项目模板"
+      "description":"基于webpack构建的vue-pc项目模板"
     },
     {
       "name":"liu-webpack-mobile",
-      "url":"github:liufeiyu1002/liufeiyu1002.github.io",
-      "description":"基于webpack构建的vue项目模板"
+      "url":"github:liufeiyu1002/liu-webpack-mobile",
+      "description":"基于webpack构建的vue-mobile项目模板"
     }
 ]
