@@ -10,8 +10,8 @@
       "description":"基于webpack构建的vue-mobile项目模板"
     },
     {
-      "name":"wr-webpack-mobile",
-      "url":"github:wangruizzz/webpack.git",
+      "name":"vx-webpack-mobile",
+      "url":"github:liufeiyu1002/vx-mobile-project.git",
       "description":"基于webpack构建的vx-mobile项目模板"
     }
 ]
