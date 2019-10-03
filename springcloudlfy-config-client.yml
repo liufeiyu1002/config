@@ -1,0 +1,40 @@
+spring:
+   profiles:
+      active:
+        - dev
+---
+server:
+  port: 8201
+
+spring:
+  profiles: dev
+  application:
+      name: springcloudlfy-config-test-client5
+
+eureka:
+ client:
+  serviceUrl:
+    defaultZone: http://localhost:7001/eureka
+  register-with-eureka: false
+
+info:
+  app.name: springcloudlfy-config-client-dev2
+  company.name: enjoy2
+---
+server:
+  port: 8102
+
+spring:
+  profiles: beta
+  application:
+      name: springcloudlfy-config-test-client5
+
+eureka:
+ client:
+  serviceUrl:
+    defaultZone: http://localhost:7301/eureka
+  register-with-eureka: false
+  
+info:
+  app.name: springcloudlfy-config-client-beta2
+  company.name: lfy
